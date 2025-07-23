@@ -104,23 +104,7 @@ function Home() {
           </div>
         </section>
 
-        {/* Footer */}
-        <footer className="border-t border-[#2A2A2A] py-10">
-          <div className="container mx-auto max-w-6xl text-center px-4">
-            <div className="flex justify-center gap-6 text-2xl mb-6">
-              <a href="https://www.facebook.com/pranaya.chakradhar" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="hover:text-[#509CF9] transition">
-                <FaFacebookF />
-              </a>
-              <a href="https://www.instagram.com/pranaya_chakradhar/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:text-[#E6683C] transition">
-                <FaInstagram />
-              </a>
-              <a href="https://www.linkedin.com/in/pranaya-chakradhar-8575aa2a2/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:text-[#0A66C2] transition">
-                <FaLinkedinIn />
-              </a>
-            </div>
-            <p className="text-[#AAAAAA] text-sm">Designed by Pranaya Chakradhar</p>
-          </div>
-        </footer>
+        
       </div>
     </motion.div>
   );
