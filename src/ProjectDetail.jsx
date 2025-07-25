@@ -11,12 +11,12 @@ const projectEmbeds = {
   'project-2': {
     title: 'Case Study: Second Project',
     embedUrl:
-      'https://embed.figma.com/proto/SECOND_PROJECT_LINK_HERE',
+      'https://embed.figma.com/proto/Cg3jf0N9QV6OBixEJoGbN7/first?node-id=166-90&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share',
   },
   'project-3': {
     title: 'Case Study: Third Project',
     embedUrl:
-      'https://embed.figma.com/proto/THIRD_PROJECT_LINK_HERE',
+      'https://embed.figma.com/proto/Cg3jf0N9QV6OBixEJoGbN7/first?node-id=459-257&scaling=min-zoom&content-scaling=fixed&page-id=447%3A3&starting-point-node-id=459%3A257&embed-host=share',
   },
   'project-4': {
     title: 'Case Study: Fourth Project',
